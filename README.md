@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- I'm currently working on a GAN project!
+- Currently trying to learn more about DL and ML as a whole
+- I'm looking for help with some website programming stuff for another project down the line
+- I'm more of a hobbyist than a professional CS developer, so excuse the poor coding techniques
 <!--
 **LegitimatelyBatman/LegitimatelyBatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
